@@ -1,5 +1,6 @@
 # Credit Risk & Loan Performance Intelligence (Canada Region)
 **Business Intelligence Solution for Portfolio Risk Management & Underwriting Automation**
+** Data Source from onyx_data_september_25 **
 
 ## 📌 Executive Summary
 This project delivers an end-to-end BI solution designed for a **Credit Risk Department** to monitor portfolio health and identify risk concentration. By implementing regional data governance for Canadian borrowers and building a robust Power BI data model, I identified high-risk segments representing an **89% default propensity**, leading to a strategic recommendation that could save **~750 underwriting hours annually**.
